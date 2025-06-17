@@ -1,6 +1,5 @@
 # Sudoku-solver
-🧠 Sudoku Solver Step-by-Step
-  This project is a step-by-step Sudoku solver built using Python and Pygame. It allows users to manually input puzzles, lock them, and then walk through each   logical solving step interactively — just like a human would using pencil marks and techniques.
+🧠 This project is a step-by-step Sudoku solver built using Python and Pygame. It allows users to manually input puzzles, lock them, and then walk through each   logical solving step interactively — just like a human would using pencil marks and techniques.
 
 # 🔧 Features:
 

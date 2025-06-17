@@ -1,9 +1,8 @@
 # Sudoku-solver
-🧠 Sudoku Solver Step-by-Step (Pygame)
-
+🧠 Sudoku Solver Step-by-Step
   This project is a step-by-step Sudoku solver built using Python and Pygame. It allows users to manually input puzzles, lock them, and then walk through each   logical solving step interactively — just like a human would using pencil marks and techniques.
 
-🔧 Features:
+# 🔧 Features:
 
   ✅ Manual puzzle input using mouse and keyboard.
 	
@@ -17,7 +16,7 @@
 	
   ❌ Wrong number popup if you input an invalid move.
 
-🕹 Controls
+# 🕹 Controls
 
   Click on cells or use wasd/arrows to select them.
   
@@ -26,7 +25,7 @@
   Press Delete or 0 to erase a number.
   
 
-Buttons on-screen:
+# ▶️ Buttons on-screen:
 
   Lock: Freeze puzzle and enable solving.
   

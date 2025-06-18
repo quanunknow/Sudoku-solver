@@ -610,7 +610,7 @@ while True:
                 if not locked: board[r][c]['value'] = 0
                 else:
                     if cell['given']: continue
-                    cell['value'] = 0; append_log(f"Cleared cell ({r+1},{c+1}).")
+                    cell['value'] = 0
     screen.fill(WHITE)
     draw_grid(); draw_buttons(); draw_timer(); draw_log_panel()
     if popup_active: draw_popup()
